@@ -4,4 +4,4 @@
 Этот репозиторий является каркасом для будущего веб-приложения.
 
 ## Ссылки
-- [Публичная страница на GitHub Pages](https://ivanbarynin.github.io/ИМЯ_РЕПОЗИТОРИЯ/)
+- [Публичная страница на GitHub Pages](https://ivanbarynin.github.io/front_and_back/)
